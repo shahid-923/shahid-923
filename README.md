@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Go backend development, HTTP servers, REST APIs, concurrency**
 
-- 📄 Know about my experiences [Resume link coming soon](Resume link coming soon)
+- 📄 Know about my experiences [https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
