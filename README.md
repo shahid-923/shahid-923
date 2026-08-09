@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahid-923" alt="shahid-923" /></a> </p>
 
-- 🔭 I’m currently working on Golang(https://github.com/shahid-923)
+- 🔭 I’m currently working on Golang Ecommerce Application(https://github.com/shahid-923)
 
 - 🌱 I’m currently learning **Golang, Microservices, Docker, REST API design**
 
